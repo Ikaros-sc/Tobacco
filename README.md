@@ -2,5 +2,5 @@ The first dataset Tobacco-2618, containing 2618 clear images with Non-tobacco re
 
 The dataset is located in the branche images_2.
 
-The code is located in the branches code.
+The code is located in the branche code.
 
